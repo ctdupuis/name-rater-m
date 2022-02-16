@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "name-rater-m",
+    "slug": "name-rater-m",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "name-rater-m"
+}
